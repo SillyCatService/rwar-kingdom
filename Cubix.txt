@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AnyaHubsV2/CMDXCBX/main/CubixBeta.lua"))()
