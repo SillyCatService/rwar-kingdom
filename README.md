@@ -1,5 +1,5 @@
 # Hello!
-Theres are just a bunch of Roblox Lua Scripts Meant for the Roblox Executor ```Delta || (android Version)```.
+These are just a bunch of Roblox Lua Scripts Meant for the Roblox Executor ```Delta || (android Version)```.
 it changes The Ui if you got bored of the default Delta Looks and want a New Executor but don't wanna reinstall Roblox
 this is for you-
 It got a Bunch of Popular Executors UI like
